@@ -22,6 +22,18 @@ This repository is about building a small "raceing robot" using an
 - For more advanced use, you can easily attach stuff through the Pins.
 
 
+# Impressions of the Robot
+
+The chassis is a simple box, the Ultrasonic mounted to the front:
+![](racing_robot_front.jpeg)
+
+It has two wheels on continuous servos, one at each side at the front, and two hemispheres at the back (sliding over the ground):
+![](racing_robot_bottom.jpeg)
+
+Inside, it's the cabeling -- looks messy, but is actually not that bad:
+![](racing_robot_inside.jpeg)
+
+
 # Notes on using...
 
 - CircuitPython:
